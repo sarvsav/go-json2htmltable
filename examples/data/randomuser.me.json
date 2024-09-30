@@ -1,0 +1,290 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Ms",
+                "first": "Oona",
+                "last": "Koivisto"
+            },
+            "location": {
+                "street": {
+                    "number": 2539,
+                    "name": "Tahmelantie"
+                },
+                "city": "Keuruu",
+                "state": "Finland Proper",
+                "country": "Finland",
+                "postcode": 99900,
+                "coordinates": {
+                    "latitude": "-23.3112",
+                    "longitude": "77.1343"
+                },
+                "timezone": {
+                    "offset": "+1:00",
+                    "description": "Brussels, Copenhagen, Madrid, Paris"
+                }
+            },
+            "email": "oona.koivisto@example.com",
+            "login": {
+                "uuid": "b5a74d42-f75c-4ba0-ae6a-7c9715784f0b",
+                "username": "redkoala806",
+                "password": "gggg",
+                "salt": "DvWQQaA5",
+                "md5": "fb9c2dce97a07cd37e200974be99d0f2",
+                "sha1": "190d9a97572c44efc654fc73ba570a83763fece0",
+                "sha256": "bd6998dc3afa6b769a1bb14b17b4f7ba75c402112fe872ea2ef9c0fdc41644c0"
+            },
+            "dob": {
+                "date": "1979-03-08T20:41:06.256Z",
+                "age": 45
+            },
+            "registered": {
+                "date": "2011-11-13T02:23:20.238Z",
+                "age": 12
+            },
+            "phone": "04-452-907",
+            "cell": "046-683-48-35",
+            "id": {
+                "name": "HETU",
+                "value": "NaNNA080undefined"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/6.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/6.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/6.jpg"
+            },
+            "nat": "FI"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Miss",
+                "first": "Gayathri",
+                "last": "Gamskar"
+            },
+            "location": {
+                "street": {
+                    "number": 9823,
+                    "name": "Sitabuldi Main Rd"
+                },
+                "city": "Mirzapur",
+                "state": "Telangana",
+                "country": "India",
+                "postcode": 15113,
+                "coordinates": {
+                    "latitude": "32.3910",
+                    "longitude": "36.8786"
+                },
+                "timezone": {
+                    "offset": "-12:00",
+                    "description": "Eniwetok, Kwajalein"
+                }
+            },
+            "email": "gayathri.gamskar@example.com",
+            "login": {
+                "uuid": "d56d680d-08a3-4440-be9e-0bc6267468c0",
+                "username": "silverbear640",
+                "password": "keith",
+                "salt": "QUxkyBrz",
+                "md5": "e78bd89638a765d82abdcec464071067",
+                "sha1": "029c905140cacdf3a7b739ef72fa601e52c5a8b8",
+                "sha256": "cd0b96cbbe39ad4fe2075775534c7f29d1a78106e89f5a098361db5e114c918c"
+            },
+            "dob": {
+                "date": "1964-03-28T08:09:58.905Z",
+                "age": 60
+            },
+            "registered": {
+                "date": "2014-08-14T08:16:11.658Z",
+                "age": 10
+            },
+            "phone": "8407728473",
+            "cell": "9384526405",
+            "id": {
+                "name": "UIDAI",
+                "value": "443571177549"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/46.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/46.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/46.jpg"
+            },
+            "nat": "IN"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Miss",
+                "first": "Eva",
+                "last": "Robinson"
+            },
+            "location": {
+                "street": {
+                    "number": 9863,
+                    "name": "Durham Street"
+                },
+                "city": "Whanganui",
+                "state": "Waikato",
+                "country": "New Zealand",
+                "postcode": 41688,
+                "coordinates": {
+                    "latitude": "18.0173",
+                    "longitude": "-55.7534"
+                },
+                "timezone": {
+                    "offset": "+7:00",
+                    "description": "Bangkok, Hanoi, Jakarta"
+                }
+            },
+            "email": "eva.robinson@example.com",
+            "login": {
+                "uuid": "97670cb4-d6c5-4e5d-b94a-6097758b12bb",
+                "username": "yellowbutterfly885",
+                "password": "motley",
+                "salt": "aYpcbDoh",
+                "md5": "212d262b45df14a9d08ca52cb8370e1c",
+                "sha1": "392e72de312e567b33485fc7ef3d1fd57eabfcac",
+                "sha256": "af8cf89130c7094985d366dea582d99edb55b0adc125592e6308745c9c392553"
+            },
+            "dob": {
+                "date": "1962-01-12T01:27:20.325Z",
+                "age": 62
+            },
+            "registered": {
+                "date": "2014-07-09T01:03:28.673Z",
+                "age": 10
+            },
+            "phone": "(436)-426-8696",
+            "cell": "(591)-379-5078",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/14.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/14.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/14.jpg"
+            },
+            "nat": "NZ"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Mrs",
+                "first": "Elia",
+                "last": "Leroux"
+            },
+            "location": {
+                "street": {
+                    "number": 1699,
+                    "name": "Rue des Jardins"
+                },
+                "city": "Roubaix",
+                "state": "Guyane",
+                "country": "France",
+                "postcode": 10573,
+                "coordinates": {
+                    "latitude": "4.5909",
+                    "longitude": "-35.2534"
+                },
+                "timezone": {
+                    "offset": "-8:00",
+                    "description": "Pacific Time (US & Canada)"
+                }
+            },
+            "email": "elia.leroux@example.com",
+            "login": {
+                "uuid": "ec9494df-3fd5-40d4-8073-29f1d49265a7",
+                "username": "redsnake587",
+                "password": "massimo",
+                "salt": "80AO8pCZ",
+                "md5": "1237df419774d218831c28f514a99905",
+                "sha1": "810898b0c46417bbf4783b2b34716b5de3a497f1",
+                "sha256": "61ef0532f10990fc6b653eba9eb803c8a6d8a464ba2fccf136eacc19a28c1275"
+            },
+            "dob": {
+                "date": "1946-12-31T01:59:15.562Z",
+                "age": 77
+            },
+            "registered": {
+                "date": "2015-01-13T04:24:49.642Z",
+                "age": 9
+            },
+            "phone": "01-64-27-11-86",
+            "cell": "06-66-30-19-44",
+            "id": {
+                "name": "INSEE",
+                "value": "2461144240337 58"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/8.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/8.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/8.jpg"
+            },
+            "nat": "FR"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Dan",
+                "last": "Day"
+            },
+            "location": {
+                "street": {
+                    "number": 716,
+                    "name": "West Street"
+                },
+                "city": "Winchester",
+                "state": "Cambridgeshire",
+                "country": "United Kingdom",
+                "postcode": "N16 1FJ",
+                "coordinates": {
+                    "latitude": "-39.3143",
+                    "longitude": "51.2173"
+                },
+                "timezone": {
+                    "offset": "-12:00",
+                    "description": "Eniwetok, Kwajalein"
+                }
+            },
+            "email": "dan.day@example.com",
+            "login": {
+                "uuid": "dafb8e25-bf90-4cd6-a496-22bc50ff6af3",
+                "username": "silverkoala573",
+                "password": "samsam",
+                "salt": "n8c50lfO",
+                "md5": "2ddd0195d78272c252bdb25e268324bb",
+                "sha1": "c0f1dc7a06b7eb67acb4a2f8a37136ccbc488995",
+                "sha256": "72d4a080e93e0fef7350521cc2d9d2fe02371015b7ab0e6037753dfed08eb95f"
+            },
+            "dob": {
+                "date": "1997-06-15T21:58:19.848Z",
+                "age": 27
+            },
+            "registered": {
+                "date": "2008-07-17T19:55:34.629Z",
+                "age": 16
+            },
+            "phone": "01696 79707",
+            "cell": "07559 750120",
+            "id": {
+                "name": "NINO",
+                "value": "MR 16 15 04 N"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/82.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/82.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/82.jpg"
+            },
+            "nat": "GB"
+        }
+    ],
+    "info": {
+        "seed": "db62aa07ec596d46",
+        "results": 5,
+        "page": 1,
+        "version": "1.4"
+    }
+}
